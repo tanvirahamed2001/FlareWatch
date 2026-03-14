@@ -1,8 +1,8 @@
 # FlareWatch
-Alberta Operator Emissions Benchmarking &amp; Regulatory Risk Scorer
+Alberta Operator Emissions Benchmarking & Regulatory Risk Scorer
 
 # 🔥 FlareWatch
-### Alberta Operator Emissions Benchmarking & Regulatory Risk Intelligence
+### Alberta Operator Emissions Benchmarking & Regulatory Risk Intelligence Platform
 
 [![Databricks](https://img.shields.io/badge/Built%20on-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://databricks.com)
 [![Delta Lake](https://img.shields.io/badge/Delta-Lake-00ADD8?style=flat-square&logo=apachespark&logoColor=white)](https://delta.io)
